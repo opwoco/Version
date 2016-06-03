@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
-               BuildableName = "Version iOS.framework"
+               BuildableName = "Version.framework"
                BlueprintName = "Version iOS"
                ReferencedContainer = "container:Version.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
-            BuildableName = "Version iOS.framework"
+            BuildableName = "Version.framework"
             BlueprintName = "Version iOS"
             ReferencedContainer = "container:Version.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
-            BuildableName = "Version iOS.framework"
+            BuildableName = "Version.framework"
             BlueprintName = "Version iOS"
             ReferencedContainer = "container:Version.xcodeproj">
          </BuildableReference>
