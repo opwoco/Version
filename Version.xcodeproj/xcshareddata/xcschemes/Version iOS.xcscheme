@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
+               BlueprintIdentifier = "712D32A019BD06570093BAD7"
                BuildableName = "Version.framework"
-               BlueprintName = "Version iOS"
+               BlueprintName = "Version"
                ReferencedContainer = "container:Version.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
+            BuildableName = "Version.framework"
+            BlueprintName = "Version iOS"
+            ReferencedContainer = "container:Version.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,15 +51,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
-            BuildableName = "Version.framework"
-            BlueprintName = "Version iOS"
-            ReferencedContainer = "container:Version.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -60,15 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9234B0081D01AE0D00CCB843"
-            BuildableName = "Version.framework"
-            BlueprintName = "Version iOS"
-            ReferencedContainer = "container:Version.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
